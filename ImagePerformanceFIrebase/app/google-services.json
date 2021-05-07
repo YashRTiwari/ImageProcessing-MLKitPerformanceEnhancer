@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "951320068263",
+    "firebase_url": "https://captureit-ef8d3.firebaseio.com",
+    "project_id": "captureit-ef8d3",
+    "storage_bucket": "captureit-ef8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951320068263:android:92069c8648a72de2631b82",
+        "android_client_info": {
+          "package_name": "tech.yash.imageperformancefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951320068263-85a0u7hnajigc022n33rms03ppbbfvg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.yash.imageperformancefirebase",
+            "certificate_hash": "4327544b9c272b61da6b194b14cd444cae5fe2b5"
+          }
+        },
+        {
+          "client_id": "951320068263-15m4tp9kfdro4bq7lkshqloh7ssl17jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsasi_ZA8adV1r79C5ptL9byGsjny1pPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951320068263-15m4tp9kfdro4bq7lkshqloh7ssl17jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951320068263:android:ebcc112f8313e6ba631b82",
+        "android_client_info": {
+          "package_name": "tech.yashtiwari.captureit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951320068263-iceh2nf5khg442mq8tpgtupobt30nhm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.yashtiwari.captureit",
+            "certificate_hash": "4327544b9c272b61da6b194b14cd444cae5fe2b5"
+          }
+        },
+        {
+          "client_id": "951320068263-251ughjreedhfdntsqrur63v7k10nul4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.yashtiwari.captureit",
+            "certificate_hash": "cf70b8b1f6b97a6747831f2f473e862ac42efd4e"
+          }
+        },
+        {
+          "client_id": "951320068263-15m4tp9kfdro4bq7lkshqloh7ssl17jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsasi_ZA8adV1r79C5ptL9byGsjny1pPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951320068263-15m4tp9kfdro4bq7lkshqloh7ssl17jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
