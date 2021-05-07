@@ -1,3 +1,5 @@
+View : Document Text Enhancement.pdf to understand the result
+
 folders:
 Android_confidence : Screenshot of Firebase API response in android app, while recognizing texr
 experiment: various combination of fiter operation tried on two set of images
